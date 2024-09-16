@@ -11,12 +11,7 @@
       "title": "Fireflies",
       "src": "music/song2.mp3",
       "image": "music/song2.jpg"
-    },
-        {
-      "author": "Conan Gray",
-      "title": "Memories",
-      "src": "music/song3.mp3",
-      "image": "music/song3.jpg"
     }
+      
   ]
 }
