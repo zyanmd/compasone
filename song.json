@@ -1,0 +1,22 @@
+{
+  "songs": [
+    {
+      "author": "putri dahlia and yuji",
+      "title": "Old Love",
+      "src": "music/song1.mp3",
+      "image": "music/song1.jpg"
+    },
+    {
+      "author": "Owl City",
+      "title": "Fireflies",
+      "src": "music/song2.mp3",
+      "image": "music/song2.jpg"
+    },
+        {
+      "author": "Conan Gray",
+      "title": "Memories",
+      "src": "music/song3.mp3",
+      "image": "music/song3.jpg"
+    }
+  ]
+}
