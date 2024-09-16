@@ -130,8 +130,8 @@ function playNext() {
 
 // Fungsi untuk auto-scroll secara perlahan
 function smoothAutoScroll() {
-    const scrollStep = 10; // Jarak scroll setiap langkah (dalam pixel)
-    const delay = 20; // Waktu tunda antar langkah (dalam millisecond)
+    const scrollStep = 5; // Jarak scroll setiap langkah (dalam pixel)
+    const delay = 10; // Waktu tunda antar langkah (dalam millisecond)
 
     function step() {
         if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
