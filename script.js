@@ -174,7 +174,7 @@ scrollButton.addEventListener('click', smoothAutoScroll);
 
 // Memuat lagu-lagu saat halaman dimuat
 window.addEventListener('load', () => {
-    const LOADER_TIMEOUT = 4000; // 3000 ms = 3 detik
+    const LOADER_TIMEOUT = 3000; // 3000 ms = 3 detik
     const loader = document.getElementById('loader');
 
     // Fungsi untuk menyembunyikan loader setelah beberapa detik
